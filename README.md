@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:naeemsarker202@gmail.com"><img src="https://img.shields.io/badge/Email-Naeem%20Sarker-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/naeemsarker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Naeem%20Sarker-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/naeemsarker" target="_blank"><img src="https://img.shields.io/badge/GitHub-NaeemSarker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="[https://www.linkedin.com/in/naeemsarker/](https://www.linkedin.com/in/naeemsarker02)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Naeem%20Sarker-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/naeemsarker02" target="_blank"><img src="https://img.shields.io/badge/GitHub-NaeemSarker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -12,7 +12,8 @@
 ## About Me
 I am a **Full Stack Developer** specializing in modern web development using **React.js, Node.js, MySQL, and Cloud technologies**.  
 I enjoy **learning new technologies**, **building smart solutions**, and contributing to **open source projects**.  
-I am passionate about **creating scalable applications** and constantly improving my skills to solve real-world problems efficiently.
+I am passionate about **creating scalable applications** and constantly improving my skills to solve real-world problems efficiently.  
+I am **goal-oriented, consistent, and love challenges**, always pushing myself to grow professionally.  
 
 ---
 
@@ -34,8 +35,9 @@ I am passionate about **creating scalable applications** and constantly improvin
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naeemsarker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naeemsarker&show_icons=true&count_private=true&theme=radical" alt="Naeem's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsarker&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -43,7 +45,11 @@ I am passionate about **creating scalable applications** and constantly improvin
 
 ## 🏆 Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naeemsarker&theme=react-dark&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naeemsarker&theme=react-dark&area=true&hide_border=false" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naeemsarker&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
@@ -63,7 +69,8 @@ I am passionate about **creating scalable applications** and constantly improvin
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts
 - Always learning something **new every day** 💡  
 - Love **coding challenges, problem-solving**, and **creating smart solutions**  
-- Open for **collaboration on open source projects** 🌍
+- Open for **collaboration on open source projects** 🌍  
+- Believe in **consistency, hard work, and growth mindset** 💪
