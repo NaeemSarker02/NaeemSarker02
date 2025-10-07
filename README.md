@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @NaeemSarker02
-- 👀 I’m interested in developing.....
-- 🌱 I’m currently learning ...
-- 💞️ trust me i can handle anything...
-- 📫 naeensarker202@gmail.com
+# Hi, I'm Naeem 👋
 
-<!--
-NaeemSarker02/NaeemSarker02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-!-->
+💻 **Full-Stack Developer | React & Node.js**
+
+### Skills
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+
+![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeem123&show_icons=true&theme=radical)
