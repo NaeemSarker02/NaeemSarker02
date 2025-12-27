@@ -1,18 +1,20 @@
 <h1 align="center">Hey 👋 I'm Naeem Sarker</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Problem Solver | System Thinker</h3>
+<h3 align="center">
+  🚀 Full Stack Developer • MERN • Problem Solver • System Thinker
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naeemsarker02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=naeemsarker02&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  💡 I build scalable, modern web applications with clean architecture. <br/>
-  🔥 Passionate about full-stack development, system design & continuous learning.
+  💡 I build scalable, modern web applications with clean architecture.<br/>
+  🔥 Focused on full-stack engineering, system design, and continuous improvement.
 </p>
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/naeemsarker02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -35,38 +37,43 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naeemsarker02&theme=algolia&row=1&column=6&margin-w=15"/>
-</p>
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,tailwind,react,nodejs,express,mysql,docker,firebase,aws,git,postman,figma,flutter,dart" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity (Stable & Modern)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naeemsarker02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsarker02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemsarker02&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naeemsarker02&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naeemsarker02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsarker02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naeemsarker02&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Current Focus
-- Full-stack MERN projects (Production-level)
-- System Design & Architecture
-- Problem Solving & DSA
+## 🚀 Current Focus
+- Production-ready MERN applications
+- System Design & Backend Architecture
+- Data Structures & Algorithms
 - Preparing for global software engineering roles 🌍
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+## 💼 What I Bring
+- Clean, maintainable code
+- Scalable backend design
+- RESTful APIs & databases
+- Strong debugging & problem-solving skills
+
+---
+
+⭐ **If you find my work useful, please star my repositories!**
