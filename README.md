@@ -2,9 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN | Problem Solver | System Thinker</h3>
 
 <p align="center">
-  <a href="https://github.com/naeemsarker02">
-    <img src="https://komarev.com/ghpvc/?username=naeemsarker02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=naeemsarker02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
@@ -28,6 +26,9 @@
   <a href="https://www.instagram.com/naeemsarker02" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://wa.me/8801629753788" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 📫 **Email:** `naeemsarker202@gmail.com`
@@ -36,7 +37,7 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naeemsarker02&theme=algolia&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naeemsarker02&theme=algolia&row=1&column=6&margin-w=15"/>
 </p>
 
 ---
@@ -50,12 +51,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naeemsarker02&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsarker02&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naeemsarker02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsarker02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naeemsarker02&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naeemsarker02&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
